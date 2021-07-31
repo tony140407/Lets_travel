@@ -1,10 +1,11 @@
 # Lets_Travel
-## 新增套票
+## Demo
+https://tony140407.github.io/Lets_travel/
+## 簡述功能
+### 新增套票
 ![](https://i.imgur.com/nVsR2eg.png)
 
 可新增但沒有套新增的Api，僅在本頁渲染
-## 套票
-![](https://i.imgur.com/Sl1RRFi.png)
 
 ### Ajax 渲染遠端資料
 渲染出卡片們
